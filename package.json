@@ -1,0 +1,29 @@
+{
+	"name": "UV",
+	"displayName": "UV",
+	"description": "UV/Glow-in-the-dark IDE theme. Bspook Codeture.",
+	"publisher": "perras",
+	"icon": "images/sight.png",
+	"version": "0.0.1111",
+	"engines": {
+		"vscode": "^1.40.0"
+	},
+	"categories": [
+		"Themes"
+	],
+
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/perras/uv.git"
+	},
+
+	"contributes": {
+		"themes": [
+			{
+				"label": "UV",
+				"uiTheme": "vs-dark",
+				"path": "./themes/uv-color-theme.json"
+			}
+		]
+	}
+}
