@@ -1,5 +1,7 @@
 # UV Glow-in-the-dark Theme
 
-UV Glow-in-the-dark IDE. Bspook Codeture.
+UV Glow-in-the-dark IDE for Visual Studio Code which is inspired by blacklights and things that glow in the dark.
 
-![Screenshot](https://i.imgur.com/whcjaaA.png)
+# Demo
+
+![Demo](https://i.imgur.com/LEpsMQz.gif)
